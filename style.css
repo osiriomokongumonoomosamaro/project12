@@ -1,1 +1,50 @@
+wedding-invitation {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
 
+.couple-image {
+  margin: 2em auto;
+  width: 50%;
+  border-radius: 50%; /* Optional: Round corners for the image */
+}
+
+.bride-and-groom {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+.wedding-party {
+  margin-top: 2em;
+}
+
+.wedding-party h3 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.wedding-party ul {
+  list-style: none;
+  padding: 0;
+}
+
+.wedding-party li {
+  margin-bottom: 0.25em;
+}
+
+.order-of-events,
+.dresscode {
+  margin-top: 2em;
+}
+
+.order-of-events h3,
+.dresscode h3 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.dresscode p {
+  font-size: 0.8em;
+  margin-top: 0;
+}
